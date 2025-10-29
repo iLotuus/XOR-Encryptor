@@ -29,9 +29,6 @@ g++ -o PHCACADEMICO.exe phc_main.cpp -mwindows -lgdi32 -luser32 -lcomctl32 -stat
 x86_64-w64-mingw32-g++ -o PHCACADEMICO.exe phc_main.cpp -mwindows -lgdi32 -luser32 -lcomctl32 -static-libgcc -static-libstdc++ -O2
 ```
 
-## ⚠️ Descargo de responsabilidad
-
-El ejemplo de Ransomware tienen fines exclusivamente académicos y de aprendizaje en el ámbito de la ciberseguridad. No se promueve ni se autoriza el uso de este tipo de código o procedimientos con fines maliciosos o que vulneren la integridad de sistemas o datos reales.
 ## 📸 Capturas de pantalla
 
 <div align="center">
@@ -48,5 +45,9 @@ El ejemplo de Ransomware tienen fines exclusivamente académicos y de aprendizaj
 </div>
 
 ## 🎬 Demo
-Soon
+Pronto
+
+## ⚠️ Descargo de responsabilidad
+
+El ejemplo de Ransomware tienen fines exclusivamente académicos y de aprendizaje en el ámbito de la ciberseguridad. No se promueve ni se autoriza el uso de este tipo de código o procedimientos con fines maliciosos o que vulneren la integridad de sistemas o datos reales.
 
