@@ -10,7 +10,7 @@ Al ejecutarse lee los archivos del Escritorio, genera una clave aleatoria de 32 
 <div align="center">
 
 ### Diagrama
-![Wallpaper Locked](preview/Diagrama.png)
+![Wallpaper Locked](Preview/Diagrama.png)
 
 </div>
 
@@ -37,13 +37,13 @@ El ejemplo de Ransomware tienen fines exclusivamente académicos y de aprendizaj
 <div align="center">
 
 ### Wallpaper Encriptado
-![Wallpaper Locked](preview/Encriptado.jpeg)
+![Wallpaper Locked](Preview/Encriptado.jpeg)
 
 ### Prueba de Encriptado
-![GUI Decrypt](preview/Prueba de Encriptacion.jpg)
+![GUI Decrypt](Preview/Prueba de Encriptacion.jpg)
 
 ### Wallpaper Recuperado
-![Wallpaper Success](preview/Desencriptado.jpeg)
+![Wallpaper Success](Preview/Desencriptado.jpeg)
 
 </div>
 
